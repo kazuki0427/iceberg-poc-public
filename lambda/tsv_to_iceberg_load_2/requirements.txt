@@ -1,0 +1,4 @@
+duckdb
+pyarrow
+pyiceberg[glue,s3fs]
+boto3
